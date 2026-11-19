@@ -8,7 +8,6 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
-
 .container {
   width: 90%;
   max-width: 600px;
@@ -27,7 +26,6 @@ h1, h2, h3, h4, h5, h6 {
 li {
   line-height: 1.4 ;
 }
-
 
 header {
   background: rgba(0, 0, 0, 0.1);
@@ -67,7 +65,6 @@ header h2 {
   text-align: center;
   margin: 0;
 }
-
 
 #main_content {
   width: 100%;
@@ -177,7 +174,6 @@ hr {
   color: #b5e853;
 }
 
-
 .btn {
   display: inline-block;
   background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rgba(0, 0, 0, 0.3));
@@ -212,12 +208,10 @@ hr {
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
-
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
-
 
 .cf:before, .cf:after {
   content:"";
